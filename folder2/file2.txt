@@ -1,1 +1,1 @@
-This is file 2 for devops assignment
+This is file 2 for devops assignment.Now moved to second folder.
